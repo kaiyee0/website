@@ -1,0 +1,1 @@
+為了滿足這裡使用的 [PersistentVolumeClaims](/zh-tw/docs/concepts/storage/persistent-volumes/#persistentvolumeclaims)，你需要擁有一個預設的 [StorageClass](/zh-tw/docs/concepts/storage/storage-classes/)，[動態 PersistentVolume provisioner](/zh-tw/docs/concepts/storage/dynamic-provisioning/)，或者自己[靜態配置 PersistentVolumes](/zh-tw/docs/concepts/storage/persistent-volumes/#provisioning)。
