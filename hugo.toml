@@ -513,3 +513,16 @@ languagedirection = "ltr"
 time_format_blog = "02.01.2006"
 # A list of language codes to look for untranslated content, ordered from left to right.
 language_alternatives = ["en"]
+
+[languages.zh-tw]
+title = "Kubernetes"
+description = "生產等級的容器規劃系統"
+languageName = "繁體中文 (Traditional Chinese)"
+languageNameLatinScript = "Chinese"
+weight = 17
+contentDir = "content/zh-tw"
+languagedirection = "ltr"
+
+[languages.zh-tw.params]
+time_format_blog = "2006.01.02"
+language_alternatives = ["en"]
